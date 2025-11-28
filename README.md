@@ -1,13 +1,10 @@
-Preview
-Markdown
-Copy
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is JP Zambrano
 ====================================================================================================================================
 
 Honors Econ and Math Student @ TCU
 ----------------------------------
 
-* 🌍  I'm based in Dallas, TX
+* 🌍  I'm based in DFW, TX
 * ✉️  You can contact me at [juanpabloz1106@gmail.com](mailto:juanpabloz1106@gmail.com)
 
 <p align="left">

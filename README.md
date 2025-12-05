@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is JP Zambrano
+[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm JP Zambrano
 ====================================================================================================================================
 
-Honors Econ and Math Student @ TCU
+I am an Honors Econ and Math Student @ TCU (2026) 
 ----------------------------------
 
 * 🌍  I'm based in DFW, TX
